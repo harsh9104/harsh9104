@@ -6,7 +6,7 @@
 
 ## Hey 👋, I'm Harsh!
 ---
-
+<!--
 ### 🚀 What I'm Up To
 
 - 🌱 Currently learning **YOUR_TOPICS** (e.g. LLD, Go, Rust, Networking)
@@ -19,20 +19,20 @@
 
 ### 🛠️ Tech Stack
 
-<!-- Replace the badges with your own tech. Browse badges at: https://shields.io or https://github.com/Ileriayo/markdown-badges -->
+
 
 **Languages:**
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![C++](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
-<!-- ADD OR REMOVE LANGUAGE BADGES AS NEEDED -->
+
 
 **Frameworks & Tools:**
 
 ![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-<!-- ADD OR REMOVE TOOL BADGES AS NEEDED -->
+
 
 **Cloud & DevOps:**
 
@@ -40,6 +40,7 @@
 <!-- ADD OR REMOVE CLOUD BADGES AS NEEDED -->
 
 ---
+
 
 ### 🌐 Let's Connect
 
