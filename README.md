@@ -4,7 +4,7 @@
 </h1>
 -->
 
-## Hey🙋‍♀️
+## Hey 👋, I'm Harsh!
 ---
 
 ### 🚀 What I'm Up To
@@ -24,8 +24,7 @@
 **Languages:**
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
-![Rust](https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white)
+![C++](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
 <!-- ADD OR REMOVE LANGUAGE BADGES AS NEEDED -->
 
 **Frameworks & Tools:**
@@ -38,7 +37,6 @@
 **Cloud & DevOps:**
 
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
 <!-- ADD OR REMOVE CLOUD BADGES AS NEEDED -->
 
 ---
@@ -46,16 +44,16 @@
 ### 🌐 Let's Connect
 
 <p align="left">
-  <a href="https://linkedin.com/in/YOUR_LINKEDIN_USERNAME" target="_blank">
+  <a href="https://linkedin.com/in/shahharshg" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <a href="https://twitter.com/YOUR_TWITTER_USERNAME" target="_blank">
+  <a href="https://twitter.com/harsh_shah_9104" target="_blank">
     <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />
   </a>
-  <a href="https://github.com/YOUR_GITHUB_USERNAME" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+  <a href="https://instagram.com/harshh.shahh" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-181717?style=for-the-badge&logo=github&logoColor=white" />
   </a>
-  <a href="mailto:YOUR_EMAIL@gmail.com" target="_blank">
+  <a href="mailto:harshshah9104@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
   <!-- OPTIONAL: Add portfolio, hashnode, dev.to, etc. -->
