@@ -4,17 +4,7 @@
 </h1>
 -->
 
-### 🙋‍♀️ About Me
-
-```yaml
-Name        : YOUR_FULL_NAME
-Located In  : YOUR_CITY, YOUR_COUNTRY
-Current Role: YOUR_ROLE (e.g. Backend Developer)
-Learning    : YOUR_LEARNING_TOPICS (e.g. DevOps, Cloud, Go, Rust)
-Email       : YOUR_EMAIL@gmail.com
-Fun Fact    : YOUR_FUN_FACT (e.g. "I debug code faster with coffee ☕")
-```
-
+## Hey🙋‍♀️
 ---
 
 ### 🚀 What I'm Up To
