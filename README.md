@@ -79,10 +79,5 @@ Fun Fact    : YOUR_FUN_FACT (e.g. "I debug code faster with coffee ☕")
 ---
 
 <p align="center">
-  <i>"YOUR_FAVORITE_QUOTE_HERE"</i><br/>
-  <b>— Quote Author</b>
-</p>
-
-<p align="center">
   ⭐ <i>If you like my work, consider giving my repos a star!</i> ⭐
 </p>
