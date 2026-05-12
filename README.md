@@ -1,8 +1,8 @@
+<!--
 <h1 align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=Hey+%F0%9F%91%8B%2C+I'm+YOUR_NAME!;Backend+Developer+%F0%9F%9A%80;Learning+DevOps+%26+Cloud+%E2%98%81%EF%B8%8F;Open+to+Collaborate!" alt="Typing SVG" />
 </h1>
-
----
+-->
 
 ### 🙋‍♀️ About Me
 
