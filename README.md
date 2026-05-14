@@ -61,6 +61,14 @@
 
 <a href="https://powerbi.microsoft.com/" target="_blank" rel="noreferrer">
   <img src="https://upload.wikimedia.org/wikipedia/commons/c/cf/New_Power_BI_Logo.svg" alt="powerbi" width="40" height="40"/></a>
+<a href="https://qgis.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/9/91/QGIS_logo_new.svg" alt="qgis" width="40" height="40"/></a>
+<a href="https://earthengine.google.com/" target="_blank" rel="noreferrer">
+  <img src="https://img.icons8.com/color/48/google-earth.png"
+       alt="google earth engine"
+       width="40"
+       height="40"/></a>
+
+
 
 </p>
 
