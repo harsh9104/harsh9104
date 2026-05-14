@@ -3,29 +3,24 @@
 <h3 align="center">A passionate Machine Learning Engineer from India, transforming real-world challenges into intelligent solutions through AI and data.</h3>
 <!---
 - 🔭 I’m currently working on [abc](https:)
-- 🌱 I’m currently learning **Frontend languages, node.js and Web3 languages.**
 - 👨‍💻 All of my projects are available at [abc.carrd.co](abc.carrd.co)
 - 💬 Ask me about **Blockchain, Web3, SEO, Digital Marketing and Content Writing.**
-- 📫 How to reach me **harshshah9104@gmail.com**
-- 📄 Know about my experiences [https://sites.google.com/view/srujalshah/resume?authuser=0](https://sites.google.com/view/srujalshah/resume?authuser=0)
 --->
+
+- 🌱 I’m currently learning **Machine Learning and its real world applications**
+
+- 📫 How to reach me **harshshah9104@gmail.com**
+
+- 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1M90bxOfFYFfr6kiJxydwzCsx7MsY8FnQ/view?usp=sharing)
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/shahharshg" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="shahharshg" height="30" width="40" /></a>
 <a href="https://x.com/harsh_shah_9104" target="blank">
   <img align="center" src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/x.svg" alt="harsh_shah_9104" height="30" width="40" /></a>
 <a href="https://instagram.com/harshh.shahh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="harshh.shahh" height="30" width="40" /></a>
-<a href="mailto:harshshah9104@gmail.com" target="blank">
-  <img align="center" 
-       src="https://img.icons8.com/color/48/gmail-new.png" 
-       alt="gmail" 
-       height="35" 
-       width="35" />
-</a>
-
 
 <h3 align="left">Languages and Tools:</h3>
-
 <p align="left">
 
 <a href="https://isocpp.org/" target="_blank" rel="noreferrer">
