@@ -29,9 +29,8 @@
 class Harsh:
     role       = "Machine Learning Engineer"
     location   = "India 🇮🇳"
-    focus      = ["Computer Vision", "LLMs & RAG", "MLOps", "Cloud (AWS)"]
+    focus      = ["MLOps", "LLMs", "Cloud (AWS)", "Computer Vision"]
     learning   = "Taking ML models from notebook ➜ production"
-    fun_fact   = "I ship models with Docker, FastAPI and dashboards people actually use"
 
     def say_hi(self):
         return "Let's build something intelligent together 🚀"
