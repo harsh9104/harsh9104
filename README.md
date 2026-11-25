@@ -5,7 +5,7 @@
 
 <p align="center">
   <a href="https://github.com/harsh9104">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=36BCF7&center=true&vCenter=true&width=650&lines=Hey+%F0%9F%91%8B%2C+I'm+Harsh;Machine+Learning+Engineer+from+India+%F0%9F%87%AE%F0%9F%87%B3;Computer+Vision+%E2%80%A2+LLMs+%26+RAG+%E2%80%A2+MLOps;Turning+real-world+problems+into+AI+products" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=36BCF7&center=true&vCenter=true&width=650&lines=Hey+%F0%9F%91%8B%2C+I'm+Harsh;Machine+Learning+Engineer+from+India+%F0%9F%87%AE%F0%9F%87%B3;CLOUD+%E2%80%A2+LLMs+%26+SYSTEM+DESIGN+%E2%80%A2+MLOps;Turning+real-world+problems+into+AI+products" alt="Typing SVG" />
   </a>
 </p>
 
