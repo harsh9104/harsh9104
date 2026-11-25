@@ -142,7 +142,7 @@ Predicts used-car selling prices from brand, year, mileage, fuel type, transmiss
 ---
 
 <p align="center">
-  <i>⭐ If you like my work, consider starring a repo — it keeps me motivated!</i>
+  <i>⭐ If you like my work, consider starring a repo, it keeps me motivated!</i>
 </p>
 
 <p align="center">
