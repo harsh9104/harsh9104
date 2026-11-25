@@ -29,7 +29,7 @@
 class Harsh:
     role       = "Machine Learning Engineer"
     location   = "India 🇮🇳"
-    focus      = ["MLOps", "LLMs", "Cloud (AWS)", "Computer Vision"]
+    focus      = ["MLOps", "LLMs", "Cloud (AWS)", "System Design"]
     learning   = "Taking ML models from notebook ➜ production"
 
     def say_hi(self):
@@ -60,7 +60,7 @@ Classifies semiconductor wafer maps (WM-811K) into **9 defect patterns** with **
 <td width="50%" valign="top">
 
 ### 🍽️ [FeastFlow](https://github.com/harsh9104/FeastFlow)
-A food-ordering platform built to survive a **festival-night rush** on AWS — auto-scales, serves Prime customers first, and never loses an order.
+A food ordering platform built to survive a **festival night rush** on AWS auto-scales, serves Prime customers first, and never loses an order.
 
 - ☁️ Deployed on **11 AWS services**
 - 📉 p95 latency **1.4 s ➜ 98 ms** while scaling 1 → 3 instances
@@ -74,7 +74,7 @@ A food-ordering platform built to survive a **festival-night rush** on AWS — a
 <td width="50%" valign="top">
 
 ### 🤖 [Multi-Document RAG ChatBot](https://github.com/harsh9104/Multi-Documents-ChatBot)
-Chat with multiple documents at once — a **Retrieval-Augmented Generation** chatbot that retrieves the right context and answers with **Llama 3.3**.
+Chat with multiple documents at once a **Retrieval Augmented Generation** chatbot that retrieves the right context and answers with **Llama 3.3**.
 
 - 📚 Multi-document upload & semantic search
 - ⚡ Ultra-fast inference via **Groq**
@@ -86,7 +86,7 @@ Chat with multiple documents at once — a **Retrieval-Augmented Generation** ch
 <td width="50%" valign="top">
 
 ### 🚗 [Car Price Prediction](https://github.com/harsh9104/Car-Price-Prediction-using-ML)
-Predicts used-car selling prices from brand, year, mileage, fuel type, transmission and more.
+Predicts used car selling prices from brand, year, mileage, fuel type, transmission and more.
 
 - 📊 Linear & **Lasso Regression** comparison
 - 🧹 Full preprocessing: missing values, encoding, scaling
